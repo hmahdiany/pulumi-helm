@@ -1,0 +1,6 @@
+encryptionsalt: v1:AmG3RY6orK8=:v1:hNfIEQDXisDyMPG2:rzxiifxrIpITwBXflHSOoCA/3f5C7w==
+config:
+  cockroachdb:configs:
+    namespace: dev-cockroachdb
+  ingress-nginx:configs:
+    namespace: dev-ingress-nginx

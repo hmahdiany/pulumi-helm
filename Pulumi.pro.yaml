@@ -1,0 +1,6 @@
+encryptionsalt: v1:Y03GmhJR/pI=:v1:ZLd2CJ0PJnM/teM9:dD/KTvU3n41eJC0pnJ5NnEyVpb+06g==
+config:
+  cockroachdb:configs:
+    namespace: pro-cockroachdb
+  ingress-nginx:configs:
+    namespace: pro-ingress-nginx
